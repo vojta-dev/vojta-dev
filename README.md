@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there!
 
-<!--
-**vojta-dev/vojta-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I hate french
+- Ocean is soup
+- I don't use Linux
+- Pineapple goes on pizza
+- JavaScript is a fun language
+- It's pronounced /ɡɪf/ and not /dʒɪf/
+- I have no idea where, to put commas,
+- There are probalbly a lot of gramattical mistakes
+- I'm from Czechia, and no, it's not called Czechoslovakia
+- I'm actually not a cat as might my profile picture suggest
+- Most of the colors that I use are plagiarized straight from the [Tailwind color palette](https://tailwindcss.com/docs/customizing-colors#default-color-palette)
+- If you find a critical vulnerability, or just want to spam me with bad shitposts, you can message me on Discord: Vojta#9179
+- **All of these statements are true! Well... except one (no, I won't tell you which one is false; and no, it's not this one)**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### enough words! it's CAT TIME
+
+![a cute cat](https://cataas.com/cat/says/hai)
