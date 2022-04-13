@@ -13,5 +13,3 @@
 # Hi there!
 
 Discord: Vojta#9179
-
-![cat](https://cataas.com/cat/says/hai?height=300)
